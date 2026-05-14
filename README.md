@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Hawakiki
+7# 👋 Hey there, I'm Hawakiki
 
 Welcome to my GitHub profile!
 
@@ -8,9 +8,7 @@ Welcome to my GitHub profile!
 
 - 🧑‍💻 GitHub Username: **Hawakiki**
 - 🇰🇷 Nationality: Korean
-- 📍 Location: Cheonan, South Korea
-- 🏫 School: Dujeong Middle School (Cheonan)
-- 🎂 Age: 12 (Middle School Student)
+- 📍 Location: South Korea
 
 ---
 
@@ -31,6 +29,14 @@ I enjoy programming and experimenting with different languages and anythings:
 
 
 Still learning, still building, still exploring new things every day 🚀
+
+---
+## 🎯 **My Core Expertise**
+
+### **Roblox Development Specializations**
+- **Multiplayer Game Systems** - Server-client architecture, networking and more
+- **Entity-Component Systems** - Scalable game architecture using Flamework and
+  similar frameworks
 
 ---
 
