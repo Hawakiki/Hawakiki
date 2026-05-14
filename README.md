@@ -1,4 +1,4 @@
-7# 👋 Hey there, I'm Hawakiki
+# 👋 Hey there, I'm Hawakiki
 
 Welcome to my GitHub profile!
 
